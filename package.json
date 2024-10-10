@@ -1,0 +1,18 @@
+{
+  "name": "lvim",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Leandro Cardoso",
+  "license": "ISC",
+  "dependencies": {
+    "@angular/language-server": "^17.3.2",
+    "@vue/language-server": "^2.0.21",
+    "typescript": "^5.4.5",
+    "typescript-language-server": "^4.3.3"
+  }
+}
